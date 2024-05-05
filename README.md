@@ -1,4 +1,8 @@
-1. Data Collection:
+"Bird Strike Mitigation
+
+In this project, following steps are performed:
+
+"1. Data Collection:
 I've gathered a diverse dataset from reputable aviation authorities and wildlife management agencies, ensuring it included relevant information on bird species, environmental conditions, flight data, and historical bird strike incidents.
 
 2. Data Preprocessing:
